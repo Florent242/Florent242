@@ -1,7 +1,19 @@
 # <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%F0%9F%92%AB+Salut%2C+je+suis+Florent+!;Développeur+Web+Fullstack;Passionné+par+l'innovation+!" alt="Typing Animation" /></div>
 
-<div align="center">
-  <img src="[https://github.com/Florent242/Florent242/blob/output/github-snake-dark.svg](https://user-images.githubusercontent.com/52748335/126324403-01747446-9a5d-410c-8bb5-96ca13e8a017.gif)https://user-images.githubusercontent.com/52748335/126324403-01747446-9a5d-410c-8bb5-96ca13e8a017.gif" alt="Snake animation" />
+<div align="center"><picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 </div>
 
 ---
