@@ -72,7 +72,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SUPABASE](https://img.shields.io/badge/Supabase-green?logo=supabase)
+![SUPABASE](https://img.shields.io/badge/Supabase-green??style=for-the-badge&logo=supabase)
 ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
 
 ### **Databases & Cloud**
