@@ -1,4 +1,4 @@
-# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%F0%9F%92%AB+Salut%2C+je+suis+Florent+!;Développeur+Web+Fullstack;Passionné+par+l'innovation+!" alt="Typing Animation" /></div>
+# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%F0%9F%92%AB+Salut%2C+je+suis+Florent+!;Développeur+Fullstack;Passionné+par+l'innovation+!" alt="Typing Animation" /></div>
 
 <div align="center"><picture>
   <source
