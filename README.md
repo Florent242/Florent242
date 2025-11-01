@@ -1,4 +1,4 @@
-# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%F0%9F%92%AB+Salut%2C+je+suis+Florent+!;Développeur+Fullstack;Passionné+par+l'innovation+!" alt="Typing Animation" /></div>
+# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%F0%9F%92%AB+Salut%2C+je+suis+Florent+!;Développeur+Fullstack;Adore+l'innovation+!" alt="Typing Animation" /></div>
 
 <div align="center"><picture>
   <source
@@ -21,7 +21,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> À Propos de Moi
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=🔧+Développeur+Web+Fullstack;💡+Responsable+Technique+Backend;🎯+Chef+de+Projet+AKOWE;🚀+Passionné+par+les+projets+utiles" alt="About me animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=🔧+Développeur+Web+Fullstack;💡+Responsable+Technique+Backend;🎯+Chef+de+Projet+AKOWE;🚀+Hobbies:+Les+projets+utiles" alt="About me animation" />
 </div>
 
 <br>
