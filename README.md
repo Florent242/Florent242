@@ -58,7 +58,7 @@
   
 [![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:florentboudz@gmail.com)](mailto:florentboudz@gmail.com)
 &nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/florent-boudzoumou)](https://linkedin.com/in/florent-boudzoumou)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/florent-boudzoumou)]([https://linkedin.com/in/florent-boudzoumou](https://bj.linkedin.com/in/florent-junior-boudzoumou-3bb414274))
 &nbsp;&nbsp;
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/florent242)
 &nbsp;&nbsp;
