@@ -1,4 +1,4 @@
-# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%F0%9F%92%AB+Salut%2C+je+suis+Florent+!;Développeur+Fullstack;Adore+l'innovation+!" alt="Typing Animation" /></div>
+## <div align="center">Bienvenue sur le profil GitHub de Florent Boudzoumou</div>
 
 <div align="center"><picture>
   <source
@@ -18,11 +18,24 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> À Propos de Moi
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> À propos
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=🔧+Développeur+Web+Fullstack;💡+Responsable+Technique+Backend;🎯+Chef+de+Projet+AKOWE;🚀+Hobbies:+Les+projets+utiles" alt="About me animation" />
+
+Développeur web fullstack & responsable technique, je conçois et déploie des applications web robustes et adaptées aux besoins des utilisateurs.  
+Freelance expérimenté, j’accompagne mes clients – entreprises et équipes – dans la réalisation de projets digitaux innovants.
+
 </div>
+
+**Toujours freelance – disponible pour missions, collaborations ou projets ambitieux.**
+
+<br>
+
+### Points marquants de la période 2024–2025
+- ✅ Mise en production de la nouvelle version d’Akowe ([akowe-v2.onrender.com](https://akowe-v2.onrender.com)) : plateforme numérique universitaire évolutive, modernisée et enrichie de nombreuses fonctionnalités.
+- 💡 Consolidation de l’expertise sur les stacks modernes (React, Laravel, Python, Supabase…) et management d’équipe technique.
+- 🚀 Responsabilité technique sur différents projets web éducatifs et collaboratifs.
+- 🤝 Réaffirmation de l’activité freelance et de la volonté de relever de nouveaux défis.
 
 <br>
 
@@ -42,7 +55,7 @@
 
 ### 🎯 **Projets Actuels**
 - 💡 **Plateforme Hackathon ESGIS** (Responsable Technique)
-- 📚 **AKOWE** - Bibliothèque Universitaire (Chef de Projet)
+- 📚 **[AKOWE v2](https://akowe-v2.onrender.com)** – Bibliothèque Universitaire, plateforme numérique déployée en 2025 (Chef de Projet)
 - 🔄 **Formation d'Équipe** en Bonnes Pratiques
 - 🎖️ **Objectif** : Développeur Fullstack Autonome
 
@@ -58,7 +71,7 @@
   
 [![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:florentboudz@gmail.com)](mailto:florentboudz@gmail.com)
 &nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/florent-boudzoumou)]([https://linkedin.com/in/florent-boudzoumou](https://bj.linkedin.com/in/florent-junior-boudzoumou-3bb414274))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/florent-boudzoumou)](https://linkedin.com/in/florent-boudzoumou)
 &nbsp;&nbsp;
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/florent242)
 &nbsp;&nbsp;
@@ -68,7 +81,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="36"> **Tech Stack**
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> **Tech Stack**
 
 <div align="center">
 
@@ -156,8 +169,8 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Florent242&repo=hackathon-platform&theme=tokyonight&hide_border=true" />
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/Florent242/akowe-library">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Florent242&repo=akowe-library&theme=tokyonight&hide_border=true" />
+<a href="https://akowe-v2.onrender.com">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Florent242&repo=akowe-library&theme=tokyonight&hide_border=true&custom_title=Akowe%20v2" />
 </a>
 
 </div>
@@ -172,21 +185,7 @@
 
 ---
 
-<div align="center">
-
-### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40"> **Visitor Count**
-
-<img src="https://visitcount.itsvg.in/api?id=Florent242&icon=2&color=6" />
-
-### **Thanks for visiting! Let's connect and build something amazing together! 🚀**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%" />
-
-</div>
-
----
-
-<!-- Animated Footer -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=💼+Open+to+new+opportunities;🤝+Let's+collaborate+on+amazing+projects!;📧+florentboudz@gmail.com" alt="Footer animation" />
+<div align="center" style="font-size: 1.05em; margin-top:2em; margin-bottom:2em;">
+Merci de votre visite sur mon profil.<br>
+N'hésitez pas à me contacter pour collaborer ou concrétiser votre prochain projet web professionnel.
 </div>
